@@ -1,0 +1,13 @@
+CTRL + P
+>java
+create java project
+Spring Boot
+Maven    -- dependencias
+3.1.1.   --version
+Java    --- lenguaje
+demo     ---  nombre artify
+Jar     -- empaquetado
+
+seleccionar las siguientes librerias
+Spring boot devtools
+spring web
